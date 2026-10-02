@@ -5,11 +5,12 @@
 > **Turning data into intelligence, and ideas into working systems.**
 
 ```text
-AI / ML        ███████████████████░  95%
-Python         ███████████████████░  95%
-Data           ██████████████████░░  90%
-Cloud / OCI    ███████████████░░░░░  80%
-Backend        ███████████████░░░░░  80%
+AI / ML         █████████████████░░░  85%
+Python          ███████████████████░  95%
+Data Analysis   ██████████████████░░  90%
+Data & SQL      █████████████████░░░  85%
+Backend         ████████████████░░░░  80%
+
 ```
 
 ---
@@ -20,7 +21,7 @@ I'm a **Data Science graduate** interested in building intelligent, production-o
 
 My interests sit at the intersection of:
 
-**Artificial Intelligence × Machine Learning × Data Engineering × Cloud**
+**Artificial Intelligence × Machine Learning × Data Engineering**
 
 I enjoy taking a problem from raw data → model → API → deployment.
 
@@ -66,10 +67,10 @@ class Lujain:
 | AI / ML      | Scikit-learn · XGBoost · TensorFlow |
 | NLP / Speech | NLP · NLU · ASR                     |
 | Backend      | FastAPI · REST APIs                 |
-| Databases    | PostgreSQL · Oracle SQL · MongoDB   |
+| Databases    | NoSQL · Oracle SQL · MongoDB   |
 | Data         | Pandas · NumPy · Power BI · Tableau |
 | Cloud        | Oracle Cloud Infrastructure         |
-| DevOps       | Docker · Docker Compose · CI/CD     |
+| DevOps       | Docker · Docker Compose ·           |
 | Systems      | Linux · Oracle Linux                |
 | Tools        | Git · GitHub                        |
 
@@ -93,6 +94,12 @@ Exploring **Arabic Automatic Speech Recognition**, focusing on building practica
 
 `Python` `Transformers` `ASR` `Gradio`
 
+---
+### 📈 Post Rate Prediction
+
+Developed a **Machine Learning model to predict post rates** using historical data. Performed data preprocessing, feature analysis, model training, and validation to evaluate prediction performance.
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning` `Data Analysis`
 ---
 
 ### 📊 Data & Governance Intelligence
