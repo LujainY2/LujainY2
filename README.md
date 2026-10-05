@@ -1,6 +1,6 @@
 # `Lujain Yousef`
 
-### AI/ML Engineer · Data Science · Cloud
+### AI/ML Engineer · Data Science · Data Engineering 
 
 > **Turning data into intelligence, and ideas into working systems.**
 
