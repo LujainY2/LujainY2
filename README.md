@@ -93,7 +93,8 @@ Designed and implemented an end-to-end Sales Data Warehouse using Microsoft SQL 
 - Integrated fact and dimension objects using surrogate keys.
 - Documented the data model, relationships, and column definitions in a data catalog.
 
-`SQL Server` `T-SQL` `ETL` `Data Warehousing` `Star Schema` `Data Modeling` `Git`
+`SQL Server` `Visual Studio` `ETL` `Data Warehousing` `Star Schema` `Data Modeling` `Git`
+[View on GitHub]([https://github.com/LujainY2/](https://github.com/LujainY2/Sales-Data-Warehouse-Using-SQL-Server)
 
 ---
 
@@ -110,17 +111,19 @@ Developed a machine-learning-based intrusion detection system to classify benign
 - Streamlit interface for model testing and analysis.
 - Containerization using Docker.
 
-`Python` `XGBoost` `Scikit-learn` `FastAPI` `Streamlit` `MongoDB` `Docker` `MySQL` `postgres`
+`Python` `XGBoost` `Scikit-learn` `FastAPI` `Streamlit` `MongoDB` `Docker` `MySQL`
 
 [View on GitHub](https://github.com/LujainY2/IDS-project)
 
 ---
 
-### 🎙️ Arabic Speech AI
+### 🎙️ Arabic Audio Anime characters Transcribing
 
 Exploring **Arabic Automatic Speech Recognition (ASR)** by building practical speech-to-text applications with microphone and uploaded-audio interfaces.
 
 `Python` `Transformers` `ASR` `Gradio`
+
+[View on GitHub](https://github.com/LujainY2/Arabic-Audio-Anime-characters-Transcribing-)
 
 ---
 
@@ -131,12 +134,17 @@ Developed a machine learning model to predict post rates using historical data. 
 `Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning`
 
 ---
+### 📊 Saudi Ministry of Tourism — Data & Governance Dashboard
 
-### 📊 Data & Governance Intelligence
+Contributed to tourism-sector dashboarding and data-management initiatives focused on data analytics, data quality, governance, and organizational performance monitoring for the Saudi Ministry of Tourism.
 
-Built interactive dashboards and explored data-management solutions focused on data quality, governance, compliance, and organizational monitoring.
+**Key areas:**
+- Interactive dashboards and KPI monitoring.
+- Data analysis, reporting, and visualization.
+- Data quality and governance.
+- Monitoring and evaluation of organizational performance.
 
-`Power BI` `SQL` `Excel` `Data Governance`
+`Power BI` `SQL` `Excel` `Data Analytics` `Data Governance` `KPI Dashboards` `Data Visualization`
 
 ---
 
