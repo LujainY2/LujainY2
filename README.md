@@ -111,7 +111,7 @@ Developed a machine-learning-based intrusion detection system to classify benign
 - Streamlit interface for model testing and analysis.
 - Containerization using Docker.
 
-`Python` `XGBoost` `Scikit-learn` `FastAPI` `Streamlit` `MongoDB` `Docker`
+`Python` `XGBoost` `Scikit-learn` `FastAPI` `Streamlit` `MongoDB` `Docker` `MySQL` `postgres`
 
 [View on GitHub](https://github.com/LujainY2/IDS-project)
 
@@ -141,33 +141,7 @@ Built interactive dashboards and explored data-management solutions focused on d
 
 ---
 
-## ☁️ Cloud
 
-**Oracle Cloud Infrastructure (OCI)**
-
-`OCI` `IAM` `Compute` `Networking` `OKE` `Terraform` `Linux`
-
-Experience and learning focused on cloud infrastructure, networking, access management, and containerized workloads.
-
-> Building beyond notebooks — toward deployable, scalable systems.
-
----
-
-## 📚 Currently Exploring
-
-```text
-AI Engineering       █████████████████░░
-NLP / ASR            ███████████████░░░
-Data Engineering     ███████████████░░░
-Cloud & DevOps       █████████████░░░░
-Production ML        ████████████░░░░░
-```
-
----
-
-## 🏆 Certification
-
-**Oracle Cloud Infrastructure — Architect Associate**
 
 ---
 
@@ -175,13 +149,11 @@ Production ML        ████████████░░░░░
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LujainY2&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LujainY2&layout=compact&theme=transparent&hide_border=true)
-
 ---
 
 ## ✦ My Approach
 
-> **Don't just train a model. Build the system around it.**
+> **Keep it up even if nothing perfect.**
 
 ```text
 Problem
