@@ -5,11 +5,10 @@
 > **Turning data into intelligence, and ideas into working systems.**
 
 ```text
-AI / ML         █████████████████░░░  85%
 Python          ███████████████████░  95%
 Data Analysis   ██████████████████░░  90%
 Data & SQL      █████████████████░░░  85%
-Backend         ████████████████░░░░  80%
+AI / ML          ████████████████░░░░  80%
 ```
 
 ---
